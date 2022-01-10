@@ -448,10 +448,10 @@ Saya perlu menjadi admin dengan beberapa izin:
             message.from_user.first_name
             hmo = await message.reply_text(
                 """
-<b>❌ Lagu tidak ditemukan atau anda tidak menulis judul lagu dengan benar
+<b>❌ Lagu tidak ditemukan, masukin judul lagu yang bener goblok
 
 ✅ Contoh Menggunakan Bot
-`/play halu`
+`/play Ratna Anjink`
 """,
             )
             return
