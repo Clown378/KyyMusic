@@ -43,10 +43,10 @@ def start_pannel():
             InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/{CHANNEL}"),
         ],
         [
-            InlineKeyboardButton("📚 ᴄᴏᴍᴍᴀɴᴅ​ 📚", url="https://telegra.ph/ҡʏʏ-ᴇx-12-15"),
+            
         ],
         [
-            InlineKeyboardButton("🌐 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🌐", url="https://github.com/muhammadrizky16/KyyMusic"),
+            InlineKeyboardButton("🔥 ᴏᴡɴᴇʀ 🔥", url="https://t.me/FvckMiaw"),
         ],
     ]
     return (
@@ -66,10 +66,10 @@ pstart_markup = InlineKeyboardMarkup(
             InlineKeyboardButton("✨ ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/{CHANNEL}"),
         ],
         [
-            InlineKeyboardButton("📚 ᴄᴏᴍᴍᴀɴᴅ ​📚", url="https://telegra.ph/ҡʏʏ-ᴇx-12-15"),
+            
         ],
         [
-            InlineKeyboardButton("🌐 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🌐", url="https://github.com/muhammadrizky16/KyyMusic"),
+            InlineKeyboardButton("🔥 ᴏᴡɴᴇʀ 🔥", url="https://t.me/FvckMiaw"),
         ],
     ]
 )
